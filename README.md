@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## Name:S Madhumitha
-## reg no:212224050217
+## reg no:212225040217
 ## AIM
 To program a study on Implementation Of Sliding Window Protocal
 ## ALGORITHM:
